@@ -45,4 +45,4 @@ The log file (*.log*) contains a summary of the analysis.
 The *snp_output* folder provides updated tables of SNP calls for each locus after analysis with PUNG.
 
 ## License
-[CU](https://choosealicense.com/licenses/cudenver/)
+[MIT](https://choosealicense.com/licenses/mit/)
