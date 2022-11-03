@@ -19,7 +19,7 @@ Requirements: Linux
 Download the PUNG program to your machine.
 
 ```bash
-git clone https://github.com/lucianadbvargas/PUNG
+git clone https://github.com/lucivargas/PUNG
 ```
 
 ## Usage
